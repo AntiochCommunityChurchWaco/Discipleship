@@ -1,0 +1,17 @@
+{
+"settings_version" :  "1.9.5",
+"supported_languages" : [{
+                         "language_name" :  "English",
+                         "language_ISO_code" :  "en",
+                         "language_database_name" :  "database_english.json",
+                         "language_database_version" :  "1.9.5"
+                      },
+                      {
+                         "language_name" :  "Spanish",
+                         "language_ISO_code" :  "es",
+                         "language_database_name" :  "database_spanish.json",
+                         "language_database_version" :  "1.9.5"
+                      }],
+"notification_text" : "Hey! You didn't read our lessons in the past %d days. Read now!",
+"notification_delay" : 168
+}
